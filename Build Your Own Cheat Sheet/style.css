@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serf;
+  background-color: gainsboro;
+}
+table {
+  border: 2px solid darkorchid;
+  width: 650px;
+  margin: 0 auto;
+}
+
+h1  {
+  text-align: center;
+}
+
+h2 {
+  color: #9932CC;
+  text-align: center;
+}
+
+table tr th {
+  background-color: #DDA0DD;
+}
+
+table .tag {
+  background-color: #FFFFE0;
+}
+
+td {
+  border-top: 1px solid darkorchid;
+}
